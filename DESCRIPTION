@@ -10,4 +10,6 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: ggplot2, here, dplyr
+VignetteBuilder: knitr
+Suggests: BiocStyle, knitr, rmarkdown
 RoxygenNote: 6.0.1

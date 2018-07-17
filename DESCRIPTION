@@ -1,0 +1,13 @@
+Package: ReprodPackage2018
+Type: Package
+Title: Compile Scripts for Improving RR
+Version: 0.1.0
+Author: John Gosink
+Maintainer: The package maintainer <john@gosink.org>
+Description: Here is a longer description of what I'm trying to do.  Could be
+    a couple of lines long.  Blah, blah.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2, here, dplyr
+RoxygenNote: 6.0.1
